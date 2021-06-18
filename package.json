@@ -1,0 +1,24 @@
+{
+  "name": "dnc-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "email-validator": "^2.0.4",
+    "google-spreadsheet": "^3.0.11",
+    "instagram-posts": "^2.2.0",
+    "musakui": "^1.0.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
